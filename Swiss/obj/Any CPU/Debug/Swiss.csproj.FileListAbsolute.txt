@@ -1,0 +1,9 @@
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\bin\Debug\Swiss.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\bin\Debug\Swiss.pdb
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\obj\Any CPU\Debug\Swiss.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\obj\Any CPU\Debug\Swiss.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\obj\Any CPU\Debug\Swiss.pdb
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\bin\Debug\RestSharp.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss\bin\Debug\RestSharp.xml

@@ -1,0 +1,17 @@
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\obj\Debug\Swiss.API.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\Swiss.API.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\Swiss.API.pdb
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\Forecast.io.45.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\RestSharp.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\Swiss.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\Swiss.pdb
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\bin\Debug\RestSharp.xml
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\obj\Debug\Swiss.API.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.API\obj\Debug\Swiss.API.pdb
+C:\DLLs\Swiss.API.dll
+C:\DLLs\Swiss.API.pdb
+C:\Users\m7sch\Source\Repos\Swiss\Swiss.API\obj\Debug\Swiss.API.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Swiss\Swiss.API\obj\Debug\Swiss.API.dll
+C:\Users\m7sch\Source\Repos\Swiss\Swiss.API\obj\Debug\Swiss.API.pdb

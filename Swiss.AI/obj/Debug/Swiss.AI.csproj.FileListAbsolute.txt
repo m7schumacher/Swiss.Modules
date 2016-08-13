@@ -1,0 +1,7 @@
+C:\Users\mschuee\DLLs\Swiss.AI.dll
+C:\Users\mschuee\DLLs\Swiss.AI.pdb
+C:\DLLs\Swiss.AI.dll
+C:\DLLs\Swiss.AI.pdb
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.AI\obj\Debug\Swiss.AI.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.AI\obj\Debug\Swiss.AI.dll
+C:\Users\mschuee\Desktop\Projects\Swiss\trunk\Swiss\Swiss.AI\obj\Debug\Swiss.AI.pdb
