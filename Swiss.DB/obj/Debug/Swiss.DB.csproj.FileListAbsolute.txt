@@ -36,3 +36,17 @@ C:\Users\m7sch\Source\Repos\Swiss\Swiss.DB\bin\Debug\Newtonsoft.Json.xml
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.DB\obj\Debug\Swiss.DB.csprojResolveAssemblyReference.cache
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.DB\obj\Debug\Swiss.DB.dll
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.DB\obj\Debug\Swiss.DB.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\Swiss.DB.dll.config
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\Swiss.DB.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\Swiss.DB.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\Swiss.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\RestSharp.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\Swiss.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\EntityFramework.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\RestSharp.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\obj\Debug\Swiss.DB.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\obj\Debug\Swiss.DB.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.DB\obj\Debug\Swiss.DB.pdb

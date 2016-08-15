@@ -17,3 +17,6 @@ C:\DLLs\Swiss.Machine.pdb
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.AI\obj\Debug\Swiss.Machine.csprojResolveAssemblyReference.cache
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.AI\obj\Debug\Swiss.Machine.dll
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.AI\obj\Debug\Swiss.Machine.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.AI\obj\Debug\Swiss.Machine.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.AI\obj\Debug\Swiss.Machine.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.AI\obj\Debug\Swiss.Machine.pdb

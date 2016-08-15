@@ -27,3 +27,17 @@ C:\Users\m7sch\Source\Repos\Swiss\Swiss.Test\bin\Debug\Newtonsoft.Json.xml
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.Test\obj\Debug\Swiss.Test.csprojResolveAssemblyReference.cache
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.Test\obj\Debug\Swiss.Test.dll
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.Test\obj\Debug\Swiss.Test.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Swiss.Test.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Swiss.Test.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Swiss.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\RestSharp.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Swiss.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\nunit.framework.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\RestSharp.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\obj\Debug\Swiss.Test.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\obj\Debug\Swiss.Test.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Test\obj\Debug\Swiss.Test.pdb

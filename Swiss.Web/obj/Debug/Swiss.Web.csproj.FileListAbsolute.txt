@@ -44,3 +44,16 @@ C:\Users\m7sch\Source\Repos\Swiss\Swiss.Web\bin\Debug\RestSharp.xml
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.Web\obj\Debug\Swiss.Web.csprojResolveAssemblyReference.cache
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.Web\obj\Debug\Swiss.Web.dll
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.Web\obj\Debug\Swiss.Web.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\Swiss.Web.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\Swiss.Web.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\Swiss.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\Swiss.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\AutoMapper.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\AutoMapper.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\CsQuery.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\bin\Debug\RestSharp.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\obj\Debug\Swiss.Web.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\obj\Debug\Swiss.Web.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.Web\obj\Debug\Swiss.Web.pdb

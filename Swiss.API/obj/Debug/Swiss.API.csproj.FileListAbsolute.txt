@@ -15,3 +15,6 @@ C:\DLLs\Swiss.API.pdb
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.API\obj\Debug\Swiss.API.csprojResolveAssemblyReference.cache
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.API\obj\Debug\Swiss.API.dll
 C:\Users\m7sch\Source\Repos\Swiss\Swiss.API\obj\Debug\Swiss.API.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.API\obj\Debug\Swiss.API.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.API\obj\Debug\Swiss.API.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss.API\obj\Debug\Swiss.API.pdb

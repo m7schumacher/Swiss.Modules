@@ -18,3 +18,10 @@ C:\Users\m7sch\Source\Repos\Swiss\Swiss\bin\Debug\RestSharp.xml
 C:\Users\m7sch\Source\Repos\Swiss\Swiss\obj\Debug\Swiss.csprojResolveAssemblyReference.cache
 C:\Users\m7sch\Source\Repos\Swiss\Swiss\obj\Debug\Swiss.dll
 C:\Users\m7sch\Source\Repos\Swiss\Swiss\obj\Debug\Swiss.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss\bin\Debug\Swiss.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss\bin\Debug\Swiss.pdb
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss\bin\Debug\RestSharp.xml
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss\obj\Debug\Swiss.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss\obj\Debug\Swiss.dll
+C:\Users\m7sch\Source\Repos\Swiss.Modules\Swiss\obj\Debug\Swiss.pdb

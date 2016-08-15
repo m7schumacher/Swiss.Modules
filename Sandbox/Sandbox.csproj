@@ -76,24 +76,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Generated Classes\Player.cs" />
-    <Compile Include="Models\PrModel.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>PrModel.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\PrModel.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>PrModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\PrModel.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>PrModel.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Product.cs">
-      <DependentUpon>PrModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="Projects\DirectoryManipulation.cs" />
     <Compile Include="Projects\DynamicCollections.cs" />
     <Compile Include="Projects\DynamicMethodGeneration.cs" />
@@ -110,30 +92,11 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <EntityDeploy Include="Models\PrModel.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>PrModel.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <None Include="Models\PrModel.edmx.diagram">
-      <DependentUpon>PrModel.edmx</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup />
-  <ItemGroup>
-    <Content Include="Models\PrModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>PrModel.edmx</DependentUpon>
-      <LastGenOutput>PrModel.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="Models\PrModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>PrModel.edmx</DependentUpon>
-      <LastGenOutput>PrModel.cs</LastGenOutput>
-    </Content>
-  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Swiss.AI\Swiss.Machine.csproj">
       <Project>{1b476c80-253f-4b8d-9c94-3540095d8319}</Project>
